@@ -1,0 +1,16 @@
+###############
+
+
+  MINER NODE 
+  
+  python3 node.py --port 5000 --miner --mineraddress xxxx  --seed http://127.0.0.1:8000
+
+
+
+###############
+
+
+
+  FULL NODE 
+
+  python3 node.py --port 5001 --seed http://127.0.01:8000
